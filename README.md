@@ -63,8 +63,10 @@ dotnet run
 ```bash
   #Navigate to the frontend project directory
   cd VideoGamesCatalog/Client
+
   # Install dependencies
   npm install
+
   # Start the Angular development server
   ng serve
 ```
