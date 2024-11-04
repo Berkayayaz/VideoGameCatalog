@@ -1,0 +1,15 @@
+C:\Users\berka\Desktop\Websites\VideoGameCatalog\VideoGameCatalog.Entity\bin\Debug\net6.0\VideoGameCatalog.Entity.deps.json
+C:\Users\berka\Desktop\Websites\VideoGameCatalog\VideoGameCatalog.Entity\bin\Debug\net6.0\VideoGameCatalog.Entity.dll
+C:\Users\berka\Desktop\Websites\VideoGameCatalog\VideoGameCatalog.Entity\bin\Debug\net6.0\VideoGameCatalog.Entity.pdb
+C:\Users\berka\Desktop\Websites\VideoGameCatalog\VideoGameCatalog.Entity\bin\Debug\net6.0\VideoGameCatalog.Domain.dll
+C:\Users\berka\Desktop\Websites\VideoGameCatalog\VideoGameCatalog.Entity\bin\Debug\net6.0\VideoGameCatalog.Domain.pdb
+C:\Users\berka\Desktop\Websites\VideoGameCatalog\VideoGameCatalog.Entity\obj\Debug\net6.0\VideoGameCatalog.Entity.csproj.AssemblyReference.cache
+C:\Users\berka\Desktop\Websites\VideoGameCatalog\VideoGameCatalog.Entity\obj\Debug\net6.0\VideoGameCatalog.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Desktop\Websites\VideoGameCatalog\VideoGameCatalog.Entity\obj\Debug\net6.0\VideoGameCatalog.Entity.AssemblyInfoInputs.cache
+C:\Users\berka\Desktop\Websites\VideoGameCatalog\VideoGameCatalog.Entity\obj\Debug\net6.0\VideoGameCatalog.Entity.AssemblyInfo.cs
+C:\Users\berka\Desktop\Websites\VideoGameCatalog\VideoGameCatalog.Entity\obj\Debug\net6.0\VideoGameCatalog.Entity.csproj.CoreCompileInputs.cache
+C:\Users\berka\Desktop\Websites\VideoGameCatalog\VideoGameCatalog.Entity\obj\Debug\net6.0\VideoGam.7893B905.Up2Date
+C:\Users\berka\Desktop\Websites\VideoGameCatalog\VideoGameCatalog.Entity\obj\Debug\net6.0\VideoGameCatalog.Entity.dll
+C:\Users\berka\Desktop\Websites\VideoGameCatalog\VideoGameCatalog.Entity\obj\Debug\net6.0\refint\VideoGameCatalog.Entity.dll
+C:\Users\berka\Desktop\Websites\VideoGameCatalog\VideoGameCatalog.Entity\obj\Debug\net6.0\VideoGameCatalog.Entity.pdb
+C:\Users\berka\Desktop\Websites\VideoGameCatalog\VideoGameCatalog.Entity\obj\Debug\net6.0\ref\VideoGameCatalog.Entity.dll

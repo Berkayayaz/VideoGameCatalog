@@ -1,0 +1,11 @@
+C:\Users\berka\Desktop\Websites\VideoGameCatalog\VideoGameCatalog.Domain\bin\Debug\net6.0\VideoGameCatalog.Domain.deps.json
+C:\Users\berka\Desktop\Websites\VideoGameCatalog\VideoGameCatalog.Domain\bin\Debug\net6.0\VideoGameCatalog.Domain.dll
+C:\Users\berka\Desktop\Websites\VideoGameCatalog\VideoGameCatalog.Domain\bin\Debug\net6.0\VideoGameCatalog.Domain.pdb
+C:\Users\berka\Desktop\Websites\VideoGameCatalog\VideoGameCatalog.Domain\obj\Debug\net6.0\VideoGameCatalog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Desktop\Websites\VideoGameCatalog\VideoGameCatalog.Domain\obj\Debug\net6.0\VideoGameCatalog.Domain.AssemblyInfoInputs.cache
+C:\Users\berka\Desktop\Websites\VideoGameCatalog\VideoGameCatalog.Domain\obj\Debug\net6.0\VideoGameCatalog.Domain.AssemblyInfo.cs
+C:\Users\berka\Desktop\Websites\VideoGameCatalog\VideoGameCatalog.Domain\obj\Debug\net6.0\VideoGameCatalog.Domain.csproj.CoreCompileInputs.cache
+C:\Users\berka\Desktop\Websites\VideoGameCatalog\VideoGameCatalog.Domain\obj\Debug\net6.0\VideoGameCatalog.Domain.dll
+C:\Users\berka\Desktop\Websites\VideoGameCatalog\VideoGameCatalog.Domain\obj\Debug\net6.0\refint\VideoGameCatalog.Domain.dll
+C:\Users\berka\Desktop\Websites\VideoGameCatalog\VideoGameCatalog.Domain\obj\Debug\net6.0\VideoGameCatalog.Domain.pdb
+C:\Users\berka\Desktop\Websites\VideoGameCatalog\VideoGameCatalog.Domain\obj\Debug\net6.0\ref\VideoGameCatalog.Domain.dll

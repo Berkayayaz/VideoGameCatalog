@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "oDNfGS21CQE+rU37/NYBuoInKfW5HYH0zegryQeM4n8=",
+  "Source": "VideoGameCatalog.Server",
+  "BasePath": "_content/VideoGameCatalog.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
